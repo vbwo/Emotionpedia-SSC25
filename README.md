@@ -10,7 +10,7 @@ It focuses on two main emotions: happiness and anger.
 
 - Exploring situations: Kids explore different scenarios, tapping on objects to see how they might trigger emotions.
 - Mimicking expressions: Using ARKit, they practice facial expressions. The app tracks key facial features (eyes, nose, cheeks, mouth) and gives real-time feedback on accuracy!
-- Expressing and managing: Fun activities help with emotional expression and regulation. Happy? Clap along with the music—Vision-based hand tracking ensures it works even with soft claps! Angry? Blow into the mic to pop virtual soap bubbles!
+- Expressing and managing: Fun activities help with emotional expression and regulation. Happy? Clap along with the music: Vision-based hand tracking ensures it works even with soft claps! Angry? Blow into the mic to pop virtual soap bubbles!
 - Reward system: After completing an emotion cycle, RealityKit displays a snapshot taken during facial tracking. It can be saved or printed as a study card.
 - Pause and Breathe: A break button triggers a guided counting exercise using Apple’s Speech framework, perfect for overwhelming moments.
 
