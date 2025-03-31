@@ -1,4 +1,4 @@
-# 🧠 Emotionpedia [Rejected]
+# 🧠 Emotionpedia
 
 Welcome to my Swift Student Challenge 2025 submission! [Click to check out the demo.](https://www.youtube.com/watch?v=I3oGPtrsfME)
 
